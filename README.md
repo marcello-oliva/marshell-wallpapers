@@ -14,6 +14,28 @@ This repository is designed to:
 
 ---
 
+## 🏗️ Repository Structure
+
+```text
+.
+├── anime/
+│   ├── chainsaw-man/
+│   ├── demon-slayer/
+│   └── jujutsu-kaisen/
+│
+├── automotive/
+├── cityscape/
+├── os/
+│
+├── LICENSE
+└── README.md
+```
+
+> [!NOTE]
+> Each category contains curated high-quality wallpapers grouped by theme, series, or aesthetic.
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
