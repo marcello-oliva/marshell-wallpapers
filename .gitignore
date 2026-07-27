@@ -1,0 +1,27 @@
+# ── Untracked wallpaper collection ──────────────────────────
+/staging/
+
+# ── Temporary files ──────────────────────────
+/tmp/
+*.tmp
+*.temp
+
+# ── Operating system files ──────────────────────────
+# Linux
+*~
+
+# Windows
+Desktop.ini
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# ── Archives ──────────────────────────
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# ── Editor files ──────────────────────────
+.vscode/
