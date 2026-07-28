@@ -1,0 +1,18 @@
+{
+    "anime": {
+        "display_name": "Anime",
+        "description": ""
+    },
+    "automotive": {
+        "display_name": "Automotive",
+        "description": ""
+    },
+    "cityscape": {
+        "display_name": "Cityscape",
+        "description": ""
+    },
+    "os": {
+        "display_name": "Os",
+        "description": ""
+    }
+}
