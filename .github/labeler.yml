@@ -1,0 +1,58 @@
+# ──── Area labels ───────────────────────────
+area:wallpapers:
+  - changed-files:
+      - any-glob-to-any-file:
+          - collections/**
+
+area:metadata:
+  - changed-files:
+      - any-glob-to-any-file:
+          - metadata/**
+
+area:templates:
+  - changed-files:
+      - any-glob-to-any-file:
+          - templates/**
+
+area:scripts:
+  - changed-files:
+      - any-glob-to-any-file:
+          - scripts/**
+
+area:github:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .github/**
+          - .gitignore
+
+area:documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "README.md"
+          - "LICENSE"
+          - docs/**
+
+# ──── Type labels (branch naming) ───────────────────────────
+type:feature:
+  - head-branch:
+      - "^feat/"
+
+type:bugfix:
+  - head-branch:
+      - "^fix/"
+
+type:maintenance:
+  - head-branch:
+      - "^chore/"
+
+type:architecture:
+  - head-branch:
+      - "^refactor/"
+
+type:documentation:
+  - head-branch:
+      - "^docs/"
+
+type:visual:
+  - head-branch:
+      - "^style/"
