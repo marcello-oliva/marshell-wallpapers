@@ -38,6 +38,10 @@
 
 ---
 
-### Related Issues
+### Additional Notes
 
-Closes #
+-
+
+<!-- (Optional) -->
+
+- **Related Issue:** Closes #
